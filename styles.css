@@ -1,0 +1,48 @@
+body {
+    background-image: url("assets/img/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    color: #FFFFFF;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100%;
+}
+
+.project_desc {
+    text-align: center;
+    color: lightgreen;
+    font-size: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+}
+
+.todo-list {
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+}
+
+ol {
+    color: orange;
+}
