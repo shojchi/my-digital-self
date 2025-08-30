@@ -1,2 +1,4 @@
 # dependencies
-/node_modules
+pnpm-lock.yaml
+.pnpm-store/
+node_modules/

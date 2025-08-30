@@ -1,0 +1,11 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "pnpm exec surge"
+  },
+  "devDependencies": {
+    "surge": "0.24.6"
+  }
+}
