@@ -1,4 +1,12 @@
 # dependencies
+
 pnpm-lock.yaml
 .pnpm-store/
 node_modules/
+
+// ide settings
+.DS_Store
+.idea/
+.vscode/
+.gitignore
+.gitignore
